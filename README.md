@@ -1,11 +1,13 @@
 # chafehtmlcss
 
 ## Overview
+
+The site contains responsiveness to suit any type of screen.
 | Website Image |
 |----------|
 | ![App Screenshot](screenshot/screenshot.jpeg) |
 
-The site contains responsiveness to suit any type of screen.
+##License
 
 MIT License
 
